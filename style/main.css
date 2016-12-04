@@ -398,12 +398,12 @@ hr {
   .tile.tile-3 .tile-inner {
     background: #dae84d;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-  .tile.tile-4 .tile-inner {
-    background: #8d8906;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-5 .tile-inner {
+    background: #dfaa42;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+  .tile.tile-4 .tile-inner {
     color: #ffffff;
-    background: #dfaa42; }
+    background: #8d8906; }
   .tile.tile-6 .tile-inner {
     color: #ffffff;
     background: #cb6409; }
